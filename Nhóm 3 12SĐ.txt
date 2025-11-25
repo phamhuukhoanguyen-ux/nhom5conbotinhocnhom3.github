@@ -120,37 +120,7 @@
         <a href="BÀI 11.html" target="_blank">Bài 11</a> 
     </div>
     <div class="member">
-        <a href="BÀI 12.html" target="_blank">Bài 12</a>
-    </div>
-    <div class="member">
-        <a href="BÀI 13.html" target="_blank">Bài 13</a>
-    </div>
-    <div class="member">
-        <a href="BÀI 14.html" target="_blank">Bài 14</a>
-    </div>      
-    <div class="member">
-        <a href="BÀI 15.html" target="_blank">Bài 15</a>
-    </div> 
-    <div class="member">
-        <a href="BÀI 16.html" target="_blank">Bài 16</a>
-    </div>     
-    <div class="member">
-        <a href="BÀI 17.html" target="_blank">Bài 17</a>
-    </div>     
-    <div class="member">
-        <a href="BÀI 18.html" target="_blank">Bài 18</a>
-    </div>
-    <div class="member">
-        <a href="https://www.canva.com/design/DAGeylKMN6Q/8qlDOL7zoI1WaUNN2H1gxA/edit?utm_content=DAGeylKMN6Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">Bài 19</a>
-    </div>
-    <div class="member">
-        <a href="https://www.canva.com/design/DAGezCHDyXk/zPQHyBuUqG8yYIAulGoRfg/edit?utm_content=DAGezCHDyXk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">Bài 20</a>
-    </div>
-    <div class="member">
-        <a href="https://www.canva.com/design/DAGezohi7ec/Y9rfzDmfGDD8FKm_aAOd2w/edit?utm_content=DAGezohi7ec&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">Bài 21</a>
-    </div>
-     <div class="member">
-        <a href="https://www.canva.com/design/DAGiuKmB8k0/oBXUHZJfP0ElPxYGendmcg/edit?utm_content=DAGiuKmB8k0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">Bài 22</a>
+        <a href="https://www.canva.com/design/DAG5A-TDuu8/ZiqcEJ-iTtzGv2YpCW4T_w/edit?utm_content=DAG5A-TDuu8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebuttonutm_content=DAGeylKMN6Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">Bài 8,9,10</a>  
     </div>
 </div>    
 <div class="container form-container">
@@ -165,4 +135,5 @@
     </form>
 </div>
 </body>
+
 </html>
